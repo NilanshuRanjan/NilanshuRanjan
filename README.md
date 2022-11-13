@@ -1,38 +1,110 @@
-[![MasterHead]("https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif")
-<h1 align="center">Hi 👋, I'm Nilanshu Ranjan</h1>
-<h3 align="center">A passionate programmer and a student of 12th grade from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5664c2f3e4b0957c43aa14f4/1627261945738-FO5OXHZT2RLNBKAFC2LD/coding.gif">
+<div align="center">
+<img src="https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilanshuranjan&label=Profile%20views&color=0e75b6&style=flat" alt="nilanshuranjan" /> </p>
+### **<div align="center">I'm Nilanshu, a class 12th student and a passionate coder 👨‍💻 learning since 2021 🚀</div>**  
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilanshuranjan" alt="nilanshuranjan" /></a> </p>
+- 🔭 I’m currently working on making some fun games using python😃  
+  
 
-<p align="left"> <a href="https://twitter.com/nilanshuranjan7" target="blank"><img src="https://img.shields.io/twitter/follow/nilanshuranjan7?logo=twitter&style=for-the-badge" alt="nilanshuranjan7" /></a> </p>
+- 🌱 I’m currently learning to use some basic modules of python.😊  
+  
 
-- 🔭 I’m currently working on **learning**
+- ❓ Ask me about anything related to basic python.😉  
+  
 
-- 🌱 I’m currently learning **MySQL**
+- ⚡ Fun fact: I watch lot of movies.  
+  
 
-- 👨‍💻 All of my projects are available at [https://github.com/NilanshuRanjan](https://github.com/NilanshuRanjan)
+<br/>  
 
-- 💬 Ask me about **Movies**
 
-- 📫 How to reach me **nilanshuranjan1326@gmail.com**
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-- ⚡ Fun fact **I watch a lot of movies.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nilanshuranjan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nilanshuranjan7" height="30" width="40" /></a>
-<a href="https://instagram.com/nilanshuranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nilanshuranjan" height="30" width="40" /></a>
-<a href="https://discord.gg/nilanshuranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nilanshuranjan" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Frontend  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilanshuranjan&show_icons=true&locale=en&layout=compact" alt="nilanshuranjan" /></p>
+</td><td valign="top" width="33%">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilanshuranjan&show_icons=true&locale=en" alt="nilanshuranjan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilanshuranjan&" alt="nilanshuranjan" /></p>
+
+### Backend  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/NilanshuRanjan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/Nilanshu_Ranjan7" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/NilanshuRanjan7" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/NilanshuRanjan" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/Nilanshu Ranjan" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NilanshuRanjan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+
+### Count of visitors  
+![Profile views counter](https://komarev.com/ghpvc/?username=NilanshuRanjan&&style=flat-square)  
+  
+
+<br/>  
+
+
+
+### Support  
+<div align="center">
+            <a href="https://www.buymeacoffee.com/NilanshuRanjan" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

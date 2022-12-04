@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://media.tenor.com/_i9AUV0dv_0AAAAC/welcome-banner.gif" align="center" style="width: 100%" />
 </div>  
-  
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ### **<div align="center">I'm Nilanshu, a class 12th student and a passionate coder 👨‍💻 learning since 2021 🚀</div>**  
   

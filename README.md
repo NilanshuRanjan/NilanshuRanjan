@@ -55,7 +55,7 @@
 <a href="https://twitter.com/NilanshuRanjan7" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/NilanshuRanjan" target="_blank">
+<a href="https://www.facebook.com/Nilanshu Ranjan" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/Nilanshu Ranjan" target="_blank">
@@ -64,7 +64,11 @@
 </div>  
   
 
-<br/>  
+<br/> 
+
+## 🏆 Trophies:
+<p align="left"><a alt="NilanshuRanjan">
+<img src="https://github-profile-trophy.vercel.app/?username=NilanshuRanjan&margin-w=17&theme=algolia"/ ></a> </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
